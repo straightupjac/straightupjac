@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Jaclyn
 
 ✨ I am a computer science and finance student at the University of Waterloo.✨ 
-- 🔭 I’m currently working at Curvegrid. 
+- 🔭 I’m currently interning at Curvegrid. 
 - 🌱 I’m currently learning UI/UX design. 
 - 👯 I’m looking to collaborate on projects. 
 - 🌐 My website is [jaclynchan.me](https://jaclynchan.me/)
