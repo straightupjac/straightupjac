@@ -2,8 +2,8 @@
 
 ✨ I am a computer science and finance student at the University of Waterloo.✨ 
 - 🔭 I’m currently interning at Curvegrid. 
-- 🌱 I’m currently learning UI/UX design. 
-- 👯 I’m looking to collaborate on projects. 
+- 🌱 Learning UI/UX design. Reading about startups. 
+<!-- - 👯 I’m looking to collaborate on projects. -->
 - 🌐 My website is [jaclynchan.me](https://jaclynchan.me/)
 <!-- - 🤔 I’m looking for help with ... -->
 - 💬 Ask me about life in Singapore, dance and music
