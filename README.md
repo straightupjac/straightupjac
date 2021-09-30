@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Jaclyn
 
-✨ Ccomputer science at the University of Waterloo.✨ 
+✨ Computer science at the University of Waterloo.✨ 
 - 🌱 Learning UI/UX design. Reading about startups. 
 - 👯 I’m looking to collaborate on projects.
 - 🌐 My website is [jaclynchan.me](https://jaclynchan.me/)
