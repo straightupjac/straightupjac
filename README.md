@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Jaclyn
-
-✨ Computer science at the University of Waterloo.✨ 
+pfp: crypto coven
+- ✨ Computer science at the University of Waterloo.✨ 
 - 🌱 Learning UI/UX design. Reading about web3. 
 - 👯 always looking to collaborate on projects.
 - 🌐 My website is [jaclynchan.me](https://jaclynchan.me/)
