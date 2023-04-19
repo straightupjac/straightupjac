@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Jaclyn
-- 🏗 hacking on random projects in web3, privacy and crypto
-- 🌱 learning more about cryptography and user experience
+- 🏗 hacking on random projects in crypto, privacy and random side quests
+- 🌱 learning more about cryptography and ux
 - 🤖 website [straightupjac.xyz](http://straightupjac.xyz/)
 - 📫 How to reach me: [t.me/straightupjac](https://t.me/straightupjac)
 - 😄 Pronouns: she/her
