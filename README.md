@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Jaclyn
 - 🤖 website [straightupjac.xyz](http://straightupjac.xyz/)
-- 📫 How to reach me: [t.me/straightupjac](https://t.me/straightupjac)
+- 📫 How to reach me: [twitter.com/straightupjac](@straightupjac)
 - 😄 Pronouns: she/her
 
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=straightupjac&show_icons=true&count_private=true" /> -->
